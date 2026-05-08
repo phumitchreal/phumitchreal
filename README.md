@@ -2,7 +2,7 @@
 `Status: Compiling Reality via Windows 11 // AI-Powered`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VIBE_CODING-STEALTH_BLACK_%2F%2F_NEON_RED-FF0000?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=000000&labelColor=FF0000" alt="Banner" />
+  <img src="https://img.shields.io/badge/VIBE__CODING-Stealth__Black%20%2F%2F%20Neon__White-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=000000" />
 </p>
 
 ## 👤 <samp>Developer.profile</samp>
@@ -52,7 +52,7 @@
 ## 📊 <samp>System.analytics</samp>
 <p align="center">
   <a href="https://github.com/phumitchreal">
-    <img src="https://img.shields.io/github/followers/phumitchreal?label=FOLLOWERS&style=for-the-badge&color=FF0000&labelColor=000000" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/phumitchreal?label=Followers&style=for-the-badge&color=000000&labelColor=ffffff" />
   </a>
   <a href="https://github.com/phumitchreal">
     <img src="https://img.shields.io/github/stars/phumitchreal?label=TOTAL_STARS&style=for-the-badge&color=FF0000&labelColor=000000" alt="Stars" />
