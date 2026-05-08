@@ -2,7 +2,7 @@
 `Status: Compiling Reality via Windows 11 // AI-Powered`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,ff0000&height=180&section=header&text=VIBE%20CODING&fontSize=70&fontAlignY=40&animation=twinkling" />
+  <img src="https://img.shields.io/badge/VIBE_CODING-STEALTH_BLACK_%2F%2F_NEON_RED-FF0000?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=000000&labelColor=FF0000" alt="Banner" />
 </p>
 
 ## 👤 <samp>Developer.profile</samp>
@@ -51,8 +51,12 @@
 
 ## 📊 <samp>System.analytics</samp>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phumitchreal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumitchreal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff0000&text_color=ffffff" height="170" />
+  <a href="https://github.com/phumitchreal">
+    <img src="https://img.shields.io/github/followers/phumitchreal?label=FOLLOWERS&style=for-the-badge&color=FF0000&labelColor=000000" alt="Followers" />
+  </a>
+  <a href="https://github.com/phumitchreal">
+    <img src="https://img.shields.io/github/stars/phumitchreal?label=TOTAL_STARS&style=for-the-badge&color=FF0000&labelColor=000000" alt="Stars" />
+  </a>
 </p>
 
 ---
