@@ -30,8 +30,8 @@
 ## 🛠️ <samp>Kernel.stack</samp> [^1]
 
 ### **[ 💻 ] Multi-OS Environment**
-*   **Main Workstation:** `Windows 11` (Daily Drive & Core Dev)
-*   **Production/Server:** `Windows Server 2019`
+* **Main Workstation:** `Windows 11` (Core Dev)
+* **Production/Server:** `Windows Server 2019`
 - [x] **Linux Subsystems:** `Arch Linux` // `Manjaro` (Rolling Release)
 
 ### **[ 🚀 ] Runtime & Frameworks**
@@ -41,7 +41,7 @@
 
 ---
 
-## 🏗️ <samp>Active_Deployments</samp> (Task_Lists)
+## 🏗️ <samp>Active_Deployments</samp>
 - [x] **WhiteCity Launcher** - High-performance desktop app for GTA SA-MP.
 - [x] **Moogrob Town** - Pig-themed server ecosystem 🐷
 - [ ] **Skin Server v2** - 1024px+ High-Res support powered by **Bun**.
@@ -51,7 +51,6 @@
 
 ## 📊 <samp>System.analytics</samp>
 <p align="center">
-  <!-- สำคัญ: หาก username ไม่ใช่ phumitchreal ให้เปลี่ยนในลิงก์ด้านล่างนี้ -->
   <img src="https://github-readme-stats.vercel.app/api?username=phumitchreal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumitchreal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff0000&text_color=ffffff" height="170" />
 </p>
@@ -61,6 +60,5 @@
 ## 📡 <samp>Connect.sh</samp>
 ```bash
 # Established handshake with Gang Timeline
-$ echo "Discord: @phumitch"
-$ echo "Hardware: Ajazz AK820 (75% Layout)"
+$echo "Discord: @phumitch"$ echo "Hardware: Ajazz AK820 (75% Layout)"
 $ open [https://instagram.com/phumitch_real](https://instagram.com/phumitch_real)
