@@ -1,4 +1,4 @@
-# 🌑 [SESSION_INITIALIZED]: PHUMITCH_README.ME
+## 🌑 [SESSION_INITIALIZED]: PHUMITCH_README.ME
 `Status: Compiling Reality via Windows 11 // AI-Powered`
 
 <p align="center">
@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/github/followers/phumitchreal?label=Followers&style=for-the-badge&color=000000&labelColor=ffffff" />
   </a>
   <a href="https://github.com/phumitchreal">
-    <img src="https://img.shields.io/github/stars/phumitchreal?label=TOTAL_STARS&style=for-the-badge&color=FF0000&labelColor=000000" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/phumitchreal?label=TOTAL_STARS&style=for-the-badge&color=000000&labelColor=ffffff" alt="Stars" />
   </a>
 </p>
 
