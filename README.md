@@ -22,7 +22,7 @@
 
 - [x] **Claude Opus 4.7** - Primary logic architect & Code refactoring.
 - [x] **Gemini 3.1 Pro** - Large context analysis & Multi-modal research.
-- [x] **Windsurf / Trae / GeminiCli / Claude Code / Antigravity** - Next-gen AI IDEs for seamless coding flow.
+- [x] **Windsurf / Trae / GeminiCli / Claude Code / Antigravity / CursorIDE** - Next-gen AI IDEs for seamless coding flow.
 - [x] **OpenRouter** - Accessing free AI intelligence.
 
 ---
