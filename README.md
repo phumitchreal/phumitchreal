@@ -1,85 +1,85 @@
-<h1 align="center">Phumitch (NoobGodreal)</h1>
-<h3 align="center">Fullstack developer &middot; IT support &middot; AI-assisted engineering</h3>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=phumitchreal&label=Profile%20Views&color=6&icon=5&pretty=true&rounded=true" alt="Profile Views" />
+</p>
+
+<h1 align="center">👋 สวัสดี, I'm Phumitch (NoobGodreal)</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Fullstack+Developer;IT+Support+Specialist;Building+Zexta+Launcher;Vibe+Coding+with+AI" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/phumitchreal?style=for-the-badge&color=8B5CF6&labelColor=0B1220&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/phumitchreal?style=for-the-badge&color=3B82F6&labelColor=0B1220&logo=star&logoColor=white" alt="Stars" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building **Zexta Launcher** — next-gen Minecraft launcher (Tauri 2.0 + React 19)
+- 🧠 Fullstack development, powered by AI-assisted workflows & vibe coding
+- 🖥️ Environment: `Windows 11` · `Windows Server` · `Arch Linux`
+- 🎨 Also into graphic design & UI
+- ⚡ Fast, lightweight, good-looking software — that's the goal
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,rust,tauri,bun,nodejs,python,tailwind,postgres,prisma,mongodb&perline=12" alt="Tech Stack" />
+</p>
+
+---
+
+## ⚡ Featured Project
+
+### 🚀 Zexta Launcher
+
+> Next-generation, high-performance, ultra-lightweight **Minecraft launcher** built with **Tauri 2.0 (Rust)** + **React 19**.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚙️_Tauri_2.0-Rational-24C8DB?style=for-the-badge&logo=tauri&logoColor=white&labelColor=0B1220" alt="Tauri" />
+  <img src="https://img.shields.io/badge/React_19-UI_Framework-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0B1220" alt="React" />
+  <img src="https://img.shields.io/github/stars/phumitchreal/Zexta-Launcher?style=for-the-badge&color=8B5CF6&labelColor=0B1220" alt="Stars" />
+</p>
 
 <p align="center">
   <a href="https://github.com/phumitchreal/Zexta-Launcher">
-    <img src="https://img.shields.io/badge/Zexta_Launcher-Tauri_%2B_React-24C8DB?style=for-the-badge&logo=tauri&logoColor=white&labelColor=0B1220" alt="Zexta Launcher" />
+    <img src="https://img.shields.io/badge/View_the_Repo-Zexta__Launcher-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220" />
   </a>
 </p>
 
 ---
 
-## About
-
-I'm a fullstack developer and IT support specialist who builds fast, reliable software with a mix of solid engineering fundamentals and AI-assisted workflows.
-
-Currently focused on **Zexta Launcher** — a next-generation, ultra-lightweight Minecraft launcher built on the Rust core of Tauri 2.0 with a React 19 frontend.
-
-- Building: [Zexta Launcher](https://github.com/phumitchreal/Zexta-Launcher) — Tauri 2.0 (Rust) + React 19
-- Environment: Windows 11, Windows Server, Arch Linux
-- Also comfortable with graphic design and UI work
-
----
-
-## Tech Stack
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tauri_2.0-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phumitchreal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumitchreal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phumitchreal&theme=tokyo-night&bg_color=0B1220&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## Featured Project
-
-### Zexta Launcher
-
-> Next-generation, high-performance and ultra-lightweight Minecraft launcher.
-
-| | |
-|---|---|
-| Runtime | Tauri 2.0 (Rust) |
-| Frontend | React 19 |
-| Goal | Fast startup, low memory, modern UI |
-
-[![Zexta Launcher](https://img.shields.io/badge/View_the_repo-Zexta__Launcher-0B1220?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22)](https://github.com/phumitchreal/Zexta-Launcher)
-
----
-
-## GitHub Stats
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/phumitchreal">
-    <img src="https://github-readme-stats.vercel.app/api?username=phumitchreal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/phumitchreal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumitchreal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/github/followers/phumitchreal?style=for-the-badge&color=1F6FEB&labelColor=161B22" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/phumitchreal?style=for-the-badge&color=1F6FEB&labelColor=161B22" alt="Stars" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/phumitchreal">
-    <img src="https://img.shields.io/badge/GitHub-phumitchreal-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-@phumitchreal-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220" alt="GitHub" />
   </a>
   <a href="https://instagram.com/phumitch_real">
-    <img src="https://img.shields.io/badge/Instagram-phumitch__real-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1220" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@phumitch__real-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1220" alt="Instagram" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-%40phumitch-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1220" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-@phumitch-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1220" alt="Discord" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Made with 💜 and a little AI</sub>
 </p>
