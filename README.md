@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,3B82F6,22D3EE&height=220&section=header&text=Phumitch&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=twinkling" width="100%" alt="header" />
+  <img src="https://raw.githubusercontent.com/phumitchreal/phumitchreal/main/banner.png" alt="banner" />
 </p>
 
 <p align="center">
