@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=phumitchreal&label=Profile%20Views&color=6&icon=5&pretty=true&rounded=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=phumitchreal&color=8B5CF6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <h1 align="center">👋 สวัสดี, I'm Phumitch (NoobGodreal)</h1>
@@ -58,10 +58,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phumitchreal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumitchreal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phumitchreal&theme=tokyo-night&bg_color=0B1220&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
