@@ -56,8 +56,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phumitchreal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumitchreal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/phumitchreal?style=for-the-badge&color=8B5CF6&labelColor=0B1220&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/phumitchreal?style=for-the-badge&color=3B82F6&labelColor=0B1220&logo=star&logoColor=white" alt="Total Stars" />
+  <img src="https://img.shields.io/github/repo-size/phumitchreal/Zexta-Launcher?style=for-the-badge&color=22D3EE&labelColor=0B1220" alt="Zexta Repo Size" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/phumitchreal/Zexta-Launcher?style=for-the-badge&color=3178C6&labelColor=0B1220" alt="Top Language" />
+  <img src="https://img.shields.io/github/languages/count/phumitchreal/Zexta-Launcher?style=for-the-badge&color=3B82F6&labelColor=0B1220" alt="Languages" />
+  <img src="https://img.shields.io/github/last-commit/phumitchreal/Zexta-Launcher?style=for-the-badge&color=EC4899&labelColor=0B1220" alt="Last Commit" />
 </p>
 
 ---
