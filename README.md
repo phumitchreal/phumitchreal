@@ -50,7 +50,3 @@ export default about;
 [![Discord](https://img.shields.io/badge/Discord-@phumitch-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1220)](https://discord.com)
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,3B82F6,22D3EE&height=100&section=footer&animation=twinkling" width="100%" />
-</p>
