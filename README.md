@@ -2,15 +2,6 @@
 
 <img src="banner.jpg" alt="banner" width="100%" />
 
-# 🎸 Guitar
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Fullstack+Developer;Graphic+Designer;Clean+UI+Lover;Vibe+Coder" alt="Typing SVG" />
-
-<p>
-  <img src="https://img.shields.io/github/followers/phumitchreal?style=flat-square&color=8B5CF6&labelColor=0B1220" />
-  <img src="https://komarev.com/ghpvc/?username=phumitchreal&color=8B5CF6&style=flat-square" />
-</p>
-
 </div>
 
 ---
